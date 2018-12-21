@@ -1,0 +1,20 @@
+#Here are all the packages we used for this project: 
+
+# pandas: handling datasets 
+pandas 
+
+# numpy: standard array manipulation library 
+numpy 
+
+# Scikit-learn : machine learning library 
+scikit-learn 
+
+# malplotlib : python base visualization tool 
+
+matplotlib 
+
+# scipy : math, science and engineering library 
+scipy 
+
+# surprise : open source recommender system library 
+surprise
