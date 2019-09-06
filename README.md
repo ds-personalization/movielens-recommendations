@@ -1,7 +1,5 @@
 # Recommendation Project
 
-__This is an ongoing project__
-
 Authors : _Arthur Herbout_, _Redouane Dziri_
 
 ## Directories and files
