@@ -26,7 +26,7 @@ Our full dataset can be found here: [Full Movielens Dataset](https://grouplens.o
 
 ## Quantitative results
 
-See Notebooks in __Part I__ and __Part II__ folders.
+See Notebooks in __Part I__ and __Part II__ folders. The `Part-I` and `Part-II` notebooks unravel our workflow, from problem definition to our results, limitations and future works.
 
 ## References and useful links
 
